@@ -1,7 +1,14 @@
-# After Installion:
+## Cloning
+
+```
+git clone https://github.com/SoftwareEngineering-2022-2026-Helwan/MIS.git
+```
+
+## After Installion:
 
 ```powershell
 npm i
+node app.js
 ```
 
 ### Use Api Testing tools Like:
